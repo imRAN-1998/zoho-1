@@ -1,0 +1,3 @@
+I am using C++ language to work out the code.
+and Used DEV-C++ for degugging the code .
+The source code will be available in the file named main.cpp
